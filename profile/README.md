@@ -2,9 +2,6 @@ Jsme střední průmyslová škola se sídlem v městě Liberci na severu Česka
 
 ## Obory a jejich zaměření
 
-* Strojírenství
-  * Počítačová podpora techniky
-  * Mechatronika
 * Elektrotechnika
   * Průmyslová elektrotechnika, výkonová elektronika a řídící systémy
   * Elektronické systémy, automatizace a sdělovací technika
@@ -12,6 +9,9 @@ Jsme střední průmyslová škola se sídlem v městě Liberci na severu Česka
 * Informační technologie
   * Desktopové, mobilní a webové aplikace a multimédia
   * Kybernetická bezpečnost, administrace systémů a internet věcí
+* Strojírenství
+  * Počítačová podpora techniky
+  * Mechatronika
 * Technické lyceum
 * Textilnictví
 * Oděvnictví
