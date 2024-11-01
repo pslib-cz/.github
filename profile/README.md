@@ -15,3 +15,5 @@ Jsme střední průmyslová škola se sídlem v městě Liberci na severu Česka
 * Technické lyceum
 * Textilnictví
 * Oděvnictví
+
+Studijní materiály najdete spíše v dceřinné organizaci [pslib-studium](https://github.com/pslib-studium).
