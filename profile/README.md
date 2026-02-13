@@ -16,4 +16,4 @@ Jsme střední průmyslová škola se sídlem v městě Liberci na severu Česka
 * Textilnictví
 * Oděvnictví
 
-Studijní materiály najdete spíše v dceřinné organizaci [pslib-studium](https://github.com/pslib-studium), školní aplikace jsou na [pslib-apps](https://github.com/pslib-apps).
+[microbit-cz](https://github.com/microbit-cz) [Studijní materiály](https://github.com/pslib-studium) [Aplikace](https://github.com/apps-pslib-cz) [Dlouhodobé práce](https://github.com/prace-pslib-cz)
